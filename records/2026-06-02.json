@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-07",
+  "inspection_date": "2026-06-02",
+  "inspector": "J. Whitfield",
+  "status": "final",
+  "vibration_mm_s": 3.1,
+  "seal_leak_ml_per_h": 8,
+  "impeller_hours": 9600,
+  "notes": "New impeller fitted in March, running clean."
+}
