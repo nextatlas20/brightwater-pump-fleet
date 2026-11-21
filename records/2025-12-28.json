@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-16",
+  "inspection_date": "2025-12-28",
+  "inspector": "R. Okafor",
+  "status": "final",
+  "vibration_mm_s": 5.8,
+  "seal_leak_ml_per_h": 24,
+  "impeller_hours": 20100,
+  "notes": "Wear ring clearance at the upper limit."
+}
