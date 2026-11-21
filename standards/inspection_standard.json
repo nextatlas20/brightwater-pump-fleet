@@ -1,0 +1,33 @@
+{
+  "standard_revision": "2026.1",
+  "issued_by": "Brightwater Water Authority - Asset Integrity",
+  "stale_cutoff_date": "2026-01-01",
+  "required_measurements": [
+    "vibration_mm_s",
+    "seal_leak_ml_per_h",
+    "impeller_hours"
+  ],
+  "thresholds": {
+    "watchlist": {
+      "vibration_mm_s": 4.5,
+      "seal_leak_ml_per_h": 20,
+      "impeller_hours": 18000
+    },
+    "overhaul": {
+      "vibration_mm_s": 7.1,
+      "seal_leak_ml_per_h": 40,
+      "impeller_hours": 24000
+    }
+  },
+  "cost_model": {
+    "base_gbp_by_model": {
+      "Vortex V3": 4200,
+      "Helix H2": 5600,
+      "Torrent T4": 7400
+    },
+    "per_impeller_hour_gbp": 0.35,
+    "seal_kit_gbp": 1450,
+    "seal_kit_threshold_ml_per_h": 40
+  },
+  "q2_budget_gbp": 42500
+}
