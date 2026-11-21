@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-12",
+  "inspection_date": "2026-05-30",
+  "inspector": "A. Sorensen",
+  "status": "final",
+  "vibration_mm_s": 8.2,
+  "seal_leak_ml_per_h": 12,
+  "impeller_hours": 25200,
+  "notes": "Heavy vibration across the whole flow range; suspect impeller imbalance."
+}
