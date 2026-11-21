@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-21",
+  "inspection_date": "2026-05-14",
+  "inspector": "R. Okafor",
+  "status": "final",
+  "vibration_mm_s": 9.1,
+  "seal_leak_ml_per_h": 55,
+  "impeller_hours": 31000,
+  "notes": "Station handed over to the developer of the Riverside site; last visit before decommissioning."
+}
