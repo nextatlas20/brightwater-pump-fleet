@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-18",
+  "inspection_date": "2026-02-19",
+  "inspector": "T. Brennan",
+  "status": "final",
+  "vibration_mm_s": 7.3,
+  "seal_leak_ml_per_h": 44,
+  "impeller_hours": 26800,
+  "notes": "Seal leaking onto the floor; impeller well past its service interval."
+}
