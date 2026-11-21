@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-07",
+  "inspection_date": "2026-06-20",
+  "inspector": "J. Whitfield",
+  "status": "void",
+  "vibration_mm_s": 7.9,
+  "seal_leak_ml_per_h": 46,
+  "impeller_hours": 26100,
+  "notes": "Transcription error - meter readings were entered against the standby pump. Re-issued as void, do not use."
+}
