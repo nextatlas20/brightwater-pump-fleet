@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-16",
+  "inspection_date": "2026-03-27",
+  "inspector": "P. Adeyemi",
+  "status": "final",
+  "vibration_mm_s": 7.6,
+  "seal_leak_ml_per_h": 18,
+  "impeller_hours": 24800,
+  "notes": "Vibration rising through the duty point; seal still holding."
+}
