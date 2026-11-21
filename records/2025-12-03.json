@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-02",
+  "inspection_date": "2025-12-03",
+  "inspector": "R. Okafor",
+  "status": "final",
+  "vibration_mm_s": 4.1,
+  "seal_leak_ml_per_h": 9,
+  "impeller_hours": 17800,
+  "notes": "Routine quarterly visit. Seal face dry, no weeping."
+}
