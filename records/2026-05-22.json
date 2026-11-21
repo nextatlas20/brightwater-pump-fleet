@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-05",
+  "inspection_date": "2026-05-22",
+  "inspector": "A. Sorensen",
+  "status": "final",
+  "vibration_mm_s": 7.4,
+  "seal_leak_ml_per_h": 41,
+  "impeller_hours": 23100,
+  "notes": "Visible drip from the mechanical seal; drive-end bearing running hot."
+}
