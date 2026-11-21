@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-05",
+  "inspection_date": "2025-10-09",
+  "inspector": "T. Brennan",
+  "status": "final",
+  "vibration_mm_s": 6.2,
+  "seal_leak_ml_per_h": 26,
+  "impeller_hours": 19800,
+  "notes": "Gland packing adjusted on site."
+}
