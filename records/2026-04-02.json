@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-14",
+  "inspection_date": "2026-04-02",
+  "inspector": "J. Whitfield",
+  "status": "final",
+  "vibration_mm_s": 4.2,
+  "seal_leak_ml_per_h": null,
+  "impeller_hours": 15600,
+  "notes": "Drip tray was dry but the leak meter was out of calibration, so no leak figure was recorded."
+}
