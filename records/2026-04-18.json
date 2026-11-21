@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-02",
+  "inspection_date": "2026-04-18",
+  "inspector": "M. Lindqvist",
+  "status": "final",
+  "vibration_mm_s": 5.6,
+  "seal_leak_ml_per_h": 14,
+  "impeller_hours": 20400,
+  "notes": "Slight bearing rumble on the drive end. Re-check next quarter."
+}
