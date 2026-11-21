@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-04",
+  "inspection_date": "2024-08-11",
+  "inspector": "T. Brennan",
+  "status": "final",
+  "vibration_mm_s": 6.0,
+  "seal_leak_ml_per_h": 30,
+  "impeller_hours": 22000,
+  "notes": "Final visit before the station was demolished for the relief road."
+}
