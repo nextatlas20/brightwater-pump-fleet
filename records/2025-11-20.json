@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-09",
+  "inspection_date": "2025-11-20",
+  "inspector": "P. Adeyemi",
+  "status": "final",
+  "vibration_mm_s": 4.9,
+  "seal_leak_ml_per_h": 22,
+  "impeller_hours": 18900,
+  "notes": "Access road flooded at the time of the visit; crew worked from the hatch only."
+}
