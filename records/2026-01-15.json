@@ -1,0 +1,10 @@
+{
+  "station_id": "PS-12",
+  "inspection_date": "2026-01-15",
+  "inspector": "M. Lindqvist",
+  "status": "final",
+  "vibration_mm_s": 5.1,
+  "seal_leak_ml_per_h": 10,
+  "impeller_hours": 21600,
+  "notes": "Steady since the last coupling realignment."
+}
