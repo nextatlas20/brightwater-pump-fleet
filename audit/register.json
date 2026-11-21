@@ -1,0 +1,106 @@
+[
+  {
+    "station_id": "PS-02",
+    "station_name": "Alder Creek Lift",
+    "branch": "station/ps-02",
+    "last_inspected": "2026-04-18",
+    "condition": "watchlist",
+    "findings": [
+      "vibration",
+      "impeller hours"
+    ],
+    "overhaul_cost_gbp": 0,
+    "q2_scheduled": false
+  },
+  {
+    "station_id": "PS-05",
+    "station_name": "Bellhaven Riser",
+    "branch": "station/ps-05",
+    "last_inspected": "2026-05-22",
+    "condition": "overhaul",
+    "findings": [
+      "vibration",
+      "seal leak",
+      "impeller hours"
+    ],
+    "overhaul_cost_gbp": 15135,
+    "q2_scheduled": true
+  },
+  {
+    "station_id": "PS-07",
+    "station_name": "Cormorant Flats",
+    "branch": "station/ps-07",
+    "last_inspected": "2026-06-02",
+    "condition": "serviceable",
+    "findings": [],
+    "overhaul_cost_gbp": 0,
+    "q2_scheduled": false
+  },
+  {
+    "station_id": "PS-09",
+    "station_name": "Dunmore Weir",
+    "branch": "station/ps-09",
+    "last_inspected": "2025-11-20",
+    "condition": "overdue",
+    "findings": [
+      "vibration",
+      "seal leak",
+      "impeller hours",
+      "stale record"
+    ],
+    "overhaul_cost_gbp": 0,
+    "q2_scheduled": false
+  },
+  {
+    "station_id": "PS-12",
+    "station_name": "Elmsworth Basin",
+    "branch": "station/ps-12",
+    "last_inspected": "2026-05-30",
+    "condition": "overhaul",
+    "findings": [
+      "vibration",
+      "impeller hours"
+    ],
+    "overhaul_cost_gbp": 14420,
+    "q2_scheduled": true
+  },
+  {
+    "station_id": "PS-14",
+    "station_name": "Fenwick Hollow",
+    "branch": "station/ps-14",
+    "last_inspected": "2026-04-02",
+    "condition": "incomplete",
+    "findings": [
+      "missing measurement"
+    ],
+    "overhaul_cost_gbp": 0,
+    "q2_scheduled": false
+  },
+  {
+    "station_id": "PS-16",
+    "station_name": "Harrowgate Station",
+    "branch": "station/ps-16",
+    "last_inspected": "2026-03-27",
+    "condition": "overhaul",
+    "findings": [
+      "vibration",
+      "impeller hours"
+    ],
+    "overhaul_cost_gbp": 12880,
+    "q2_scheduled": true
+  },
+  {
+    "station_id": "PS-18",
+    "station_name": "Gullwing Terrace",
+    "branch": "station/ps-18",
+    "last_inspected": "2026-02-19",
+    "condition": "overhaul",
+    "findings": [
+      "vibration",
+      "seal leak",
+      "impeller hours"
+    ],
+    "overhaul_cost_gbp": 15030,
+    "q2_scheduled": false
+  }
+]

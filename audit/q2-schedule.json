@@ -1,0 +1,9 @@
+{
+  "budget_gbp": 42500,
+  "total_cost_gbp": 42435,
+  "stations": [
+    "PS-05",
+    "PS-12",
+    "PS-16"
+  ]
+}
